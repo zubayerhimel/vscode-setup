@@ -1,0 +1,191 @@
+{
+  "editor.fontFamily": "Operator Mono",
+  "editor.inlayHints.fontFamily": "Operator Mono",
+  "editor.codeLensFontFamily": "Operator Mono",
+  "chat.editor.fontFamily": "Operator Mono",
+  "debug.console.fontFamily": "Operator Mono",
+  "markdown.preview.fontFamily": "Operator Mono",
+  "editor.fontLigatures": true,
+  "editor.letterSpacing": 1,
+  "editor.lineHeight": 30,
+  "editor.scrollbar.horizontal": "auto",
+  "editor.scrollbar.vertical": "auto",
+  "cSpell.userWords": ["Hackathon"],
+  "editor.cursorSmoothCaretAnimation": "on",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "prettier.printWidth": 200,
+  "css.validate": false,
+  "liveshare.presence": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.views.repositories.location": "gitlens",
+  "gitlens.views.fileHistory.location": "gitlens",
+  "gitlens.views.lineHistory.location": "gitlens",
+  "gitlens.views.compare.location": "gitlens",
+  "gitlens.views.search.location": "gitlens",
+  "editor.fontWeight": null,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "javascriptreact": "html",
+    "typescriptreact": "html",
+    "plaintext": "html"
+  },
+  "prettier.bracketSameLine": true,
+  "notebook.kernelProviderAssociations": [],
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vetur.format.defaultFormatter.js": "prettier-eslint",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "tabnine.experimentalAutoImports": true,
+  "editor.cursorBlinking": "smooth",
+  "yaml.schemas": {
+    "file:///c%3A/Users/Shelby/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "atlascode.jira.enabled": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "redhat.telemetry.enabled": false,
+  "atlascode.bitbucket.enabled": true,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+    "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe (migrated)": {
+      "path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+      "args": []
+    }
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "json.schemas": [],
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.smoothScrolling": true,
+  "editor.accessibilitySupport": "off",
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.ts": "${capture}.js, ${capture}.typegen.ts",
+    "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+    "*.jsx": "${capture}.js",
+    "*.tsx": "${capture}.ts, ${capture}.typegen.ts",
+    "tsconfig.json": "tsconfig.*.json",
+    "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml",
+    "*.mts": "${capture}.typegen.ts",
+    "*.cts": "${capture}.typegen.ts"
+  },
+  "terminal.integrated.fontFamily": "Dank Mono",
+  "editor.codeActionsOnSave": {},
+  "cSpell.languageSettings": [],
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "gitlens.graph.experimental.minimap.enabled": true,
+  "atlascode.helpExplorerEnabled": false,
+  "atlascode.bitbucket.issues.explorerEnabled": false,
+  "atlascode.bitbucket.issues.createJiraEnabled": false,
+  "atlascode.bitbucket.issues.monitorEnabled": false,
+  "atlascode.bitbucket.issues.refreshInterval": 0,
+  "atlascode.bitbucket.statusbar.enabled": false,
+  "atlascode.jira.jqlList": [
+    {
+      "id": "d70d2e68-1f96-4576-86be-4d9047557d9b",
+      "enabled": true,
+      "name": "My v2tech Issues",
+      "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+      "siteId": "71050e42-339b-4b94-98a2-307cd64a044c",
+      "monitor": true
+    }
+  ],
+  "atlascode.jira.explorer.fetchAllQueryResults": false,
+  "git.autofetch": true,
+  "terminal.integrated.env.windows": {},
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+"window.commandCenter": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "scm.inputFontFamily": "Operator Mono",
+  "notebook.output.fontFamily": "Operator Mono",
+  "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]", "WARNING"],
+  "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "Night Owl",
+  "editor.suggest.preview": true,
+  "workbench.editor.enablePreview": false,
+  "tailwind-fold.autoFold": false,
+  "workbench.editor.labelFormat": "short",
+  "workbench.settings.applyToAllProfiles": [
+  
+  ],
+  "apc.parts.font.family": {
+    "sidebar": "Operator Mono",
+    "titlebar": "Dank Mono",
+    "activityBar": "Dank Mono",
+    "panel": "Operator Mono",
+    "tabs": "Operator Mono",
+    "statusbar": "Dank Mono",
+    "settings-body": "Operator Mono",
+    "extension-editor": "Operator Mono", // Install the font and restart vscode
+    "monaco-menu": "Operator Mono"
+  },
+  "apc.activityBar": {
+    "position": "bottom",
+    "hideSettings": true,
+    "size": 28 // Height (when top/bottom) or width (in default position)
+    // "itemSize": 40, // Size of items within the bar (default: size)
+    // "itemMargin": 1 // Margin between two items (default: 3)
+  },
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 28,
+    "fontSize": 9
+  },
+  "apc.stylesheet": {
+    ".title-label": "display: none !important"
+  },
+  "apc.font.family": "Dank Mono",
+  "apc.monospace.font.family": "Dank Mono",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "chatgpt.lang": "en",
+  "update.mode": "manual",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true
+}
