@@ -70,6 +70,7 @@
     "plaintext": false,
     "markdown": false
   },
+  "github.copilot.nextEditSuggestions.enabled": true,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -140,20 +141,21 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-"window.commandCenter": false,
+  "window.commandCenter": false,
   "security.workspace.trust.untrustedFiles": "open",
   "scm.inputFontFamily": "Operator Mono",
   "notebook.output.fontFamily": "Operator Mono",
   "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]", "WARNING"],
   "window.titleBarStyle": "custom",
-  "workbench.colorTheme": "Night Owl",
   "editor.suggest.preview": true,
   "workbench.editor.enablePreview": false,
   "tailwind-fold.autoFold": false,
   "workbench.editor.labelFormat": "short",
-  "workbench.settings.applyToAllProfiles": [
-  
-  ],
+  "workbench.settings.applyToAllProfiles": [],
+  "apc.electron": {
+    "transparent": true,
+    "titleBarStyle": "hiddenInset"
+  },
   "apc.parts.font.family": {
     "sidebar": "Operator Mono",
     "titlebar": "Dank Mono",
@@ -182,10 +184,11 @@
   },
   "apc.font.family": "Dank Mono",
   "apc.monospace.font.family": "Dank Mono",
-  "workbench.iconTheme": "material-icon-theme",
   "workbench.sideBar.location": "right",
   "chatgpt.lang": "en",
   "update.mode": "manual",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Coder Coder Dark Theme",
+  "workbench.iconTheme": "material-icon-theme"
 }
