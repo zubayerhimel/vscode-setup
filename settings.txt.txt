@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": "Operator Mono",
+  "editor.fontFamily": "Dank Mono",
   "editor.inlayHints.fontFamily": "Operator Mono",
   "editor.codeLensFontFamily": "Operator Mono",
   "chat.editor.fontFamily": "Operator Mono",
@@ -70,7 +70,6 @@
     "plaintext": false,
     "markdown": false
   },
-  "github.copilot.nextEditSuggestions.enabled": true,
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
@@ -147,15 +146,14 @@
   "notebook.output.fontFamily": "Operator Mono",
   "todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "XXX", "[ ]", "[x]", "WARNING"],
   "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "Night Owl",
   "editor.suggest.preview": true,
   "workbench.editor.enablePreview": false,
   "tailwind-fold.autoFold": false,
   "workbench.editor.labelFormat": "short",
-  "workbench.settings.applyToAllProfiles": [],
-  "apc.electron": {
-    "transparent": true,
-    "titleBarStyle": "hiddenInset"
-  },
+  "workbench.settings.applyToAllProfiles": [
+  
+  ],
   "apc.parts.font.family": {
     "sidebar": "Operator Mono",
     "titlebar": "Dank Mono",
@@ -184,11 +182,10 @@
   },
   "apc.font.family": "Dank Mono",
   "apc.monospace.font.family": "Dank Mono",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.sideBar.location": "right",
   "chatgpt.lang": "en",
   "update.mode": "manual",
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "editor.formatOnSave": true,
-  "workbench.colorTheme": "Coder Coder Dark Theme",
-  "workbench.iconTheme": "material-icon-theme"
+  "editor.formatOnSave": true
 }
